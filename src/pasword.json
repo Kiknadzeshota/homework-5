@@ -1,0 +1,16 @@
+IncludeLowercaseLetters = "abcdefghijklmnopqrstuvwxyz";
+ IncludeUppercaseLetters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+ IncludeNumbers = "0123456789";
+ IncludeSymbols = "!@#$%^&*()";
+charset = "0123456789!@#$%^&*()";
+
+
+[
+    {
+        "low": "abcdefghijklmnopqrstuvwxyz",
+        "low_Upp": "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ",
+        "low_num": "abcdefghijklmnopqrstuvwxyz0123456789",
+        "low_sym": "abcdefghijklmnopqrstuvwxyz!@#$%^&*()",
+        "low_upp_num": "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
+    }
+]

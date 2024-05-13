@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "ready": false,
+        "action": "Include Uppercase Letters"
+    },
+    {
+        "id": 2,
+        "ready": false,
+        "action": "Include Lowercase Letters"
+    },
+    {
+        "id": 3,
+        "ready": false,
+        "action": "Include Numbers"
+    },
+    {
+        "id": 4,
+        "ready": false,
+        "action": "Include Symbols"
+    }
+]
